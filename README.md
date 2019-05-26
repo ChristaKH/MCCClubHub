@@ -1,9 +1,9 @@
 # MCCClubHub
 Mobile Device Application for the use of club members in various clubs at Miracosta Community College
 
-#App Features
+# App Features
 
-##Splash Screen 
+## Splash Screen 
 * Intro to the app
 * Gradient background in Miracosta College Colors (Maybe?)
 * Logo of app in center
