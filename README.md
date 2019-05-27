@@ -55,6 +55,10 @@ cannot be checked in
 * Has list view of existing projects which shows the name of the project, the current number of members (there can also be a listed 
 cap on number of project members), and a picture to describe the project (possibly just give generic picture options instead of having user submit a picture)
 
+## Resources Activity
+* Shows a list of resources for students that include resources for specific majors/interests, as well as non-academic resources such as mental health and the food pantry.
+* Might want some sort of inner menu to separate the different types of resources
+* Should also contain professor information as well as their office hours
 
 
 
