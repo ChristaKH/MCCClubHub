@@ -64,5 +64,9 @@ cap on number of project members), and a picture to describe the project (possib
 * Might want some sort of inner menu to separate the different types of resources
 * Should also contain professor information as well as their office hours
 
+## Clubs Activity
+* This activity shows the clubs that the user is currently part of and allows them to add or remove other clubs
 
+## Settings Activity
+* Activity for changing the settings of the app
 
