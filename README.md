@@ -31,6 +31,10 @@ Mobile Device Application for the use of club members in various clubs at Miraco
 * Same profile will be used for any clubs that the user is a part of 
 * Various student info follows
 
+## Message Activity
+* This is an activity that handles the messages to the user
+* This is currently used mainly for the projects activity and also for leadership use but this can be extended if MCC would like to include user interaction
+
 ## Calendar Activity
 * Also has navigation menu
 * Alert's the user of events for the current club
