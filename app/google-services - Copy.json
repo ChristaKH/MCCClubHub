@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150183334917",
+    "firebase_url": "https://mccclubhub.firebaseio.com",
+    "project_id": "mccclubhub",
+    "storage_bucket": "mccclubhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150183334917:android:87c1a83ed056337e",
+        "android_client_info": {
+          "package_name": "chatch.jtaylor.estewart.mccclubhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150183334917-v1s3nl9un8eu68nvnmibaelbh50icb9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrEzn7X-AKSnODDmhmunRAnXFSFwec_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150183334917-v1s3nl9un8eu68nvnmibaelbh50icb9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
